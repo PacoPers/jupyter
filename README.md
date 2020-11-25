@@ -22,5 +22,5 @@ $ bundler install
 $ bundle exec jekyll serve
 ```
 
-# Link kto jupyter:
+# Link to jupyter:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PacoPers/jupyter/HEAD)
