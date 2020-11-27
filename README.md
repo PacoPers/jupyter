@@ -24,3 +24,6 @@ $ bundle exec jekyll serve
 
 # Link to jupyter:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PacoPers/jupyter/HEAD)
+
+Link Qlunc Jupyter notbook:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PacoPers/jupyter/master?filepath=jupyter_tests%2Ffirst.ipynb)
