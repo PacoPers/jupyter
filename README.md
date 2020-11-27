@@ -26,4 +26,5 @@ $ bundle exec jekyll serve
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PacoPers/jupyter/HEAD)
 
 Link Qlunc Jupyter notbook:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PacoPers/jupyter/master?filepath=jupyter_tests%2Ffirst.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PacoPers/jupyter/HEAD?filepath=Qlunc_NoteBook_WorkingExample.ipynb)
